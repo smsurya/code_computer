@@ -5,5 +5,8 @@ public class Computer {
 		System.out.println("ComputerModel is Windows 10 ");
 		
 	}
-
+public static void main(String[] args) {
+		Desktop d = new Desktop();
+		d.desktopSize();
+	
 }
